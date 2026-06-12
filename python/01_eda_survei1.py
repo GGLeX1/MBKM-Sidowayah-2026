@@ -7,7 +7,7 @@ from pathlib import Path
 import warnings
 warnings.filterwarnings("ignore")
 
-BASE_DIR   = Path(__file__).parent
+BASE_DIR   = Path(__file__).parent.parent
 DATA_RAW   = BASE_DIR / "data" / "raw"        / "survei_1_raw.csv"
 DATA_OUT   = BASE_DIR / "data" / "processed"  / "survei_1_clean.csv"
 REPORT_DIR = BASE_DIR / "reports" / "eda_survei1"

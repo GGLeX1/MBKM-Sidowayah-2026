@@ -792,12 +792,3 @@ nbformat>=5.9
 ```
 
 ---
-
-## Penutup
-
-Dokumen ini adalah **live report** — akan diperbarui seiring berjalannya analisis dan ditemukannya insight baru dari data. Setiap keputusan metodologis yang tidak terdokumentasi di sini harus didiskusikan dan dicatat sebelum diimplementasikan.
-
----
-
-**Versi Dokumen:** 1.0  
-**Terakhir Diperbarui:** 01-05-2026  
