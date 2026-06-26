@@ -1,0 +1,43 @@
+ID,Umur,Pendidikan Terakhir,skor_total,label_scoring,label_num,label_model,prob_sudah,sesuai_scoring,borderline
+R01,56,SMA,0.390625,belum_memilah,0,belum_memilah,0.0006261022927689594,ya,tidak
+R02,51,SMA,0.6875,sudah_memilah,1,sudah_memilah,0.9997755991285404,ya,tidak
+R03,32,SMA,0.7760416666666666,sudah_memilah,1,sudah_memilah,1.0,ya,tidak
+R04,63,SD,0.4635416666666667,belum_memilah,0,belum_memilah,0.0014167869167869167,ya,tidak
+R05,56,SMP,0.421875,belum_memilah,0,belum_memilah,0.011870864324924795,ya,tidak
+R06,33,SMA,0.5833333333333334,sudah_memilah,1,sudah_memilah,0.9874724361102358,ya,tidak
+R07,56,SMA,0.5677083333333334,sudah_memilah,1,sudah_memilah,0.9928500632713428,ya,tidak
+R08,35,SMA,0.8385416666666666,sudah_memilah,1,sudah_memilah,0.9998039215686274,ya,tidak
+R09,52,SD,0.7447916666666667,sudah_memilah,1,sudah_memilah,0.9974561120187553,ya,tidak
+R10,36,SMA,0.5104166666666666,belum_memilah,0,belum_memilah,0.0019894122383252817,ya,tidak
+R11,58,SD,0.5,belum_memilah,0,belum_memilah,0.004335924209376222,ya,tidak
+R12,56,SMA,0.2604166666666666,belum_memilah,0,belum_memilah,0.00014492753623188405,ya,tidak
+R13,30,S1,0.4479166666666667,belum_memilah,0,belum_memilah,0.00018208844295800817,ya,tidak
+R14,60,SMA,0.4583333333333333,belum_memilah,0,belum_memilah,0.00799431516176327,ya,tidak
+R15,45,SMA,0.4583333333333333,belum_memilah,0,belum_memilah,0.010960860312663169,ya,tidak
+R16,38,SMA,0.6458333333333333,sudah_memilah,1,sudah_memilah,0.9992599854756717,ya,tidak
+R17,29,SMK,0.6614583333333334,sudah_memilah,1,sudah_memilah,0.998280047204067,ya,tidak
+R18,37,Tidak Diketahui,0.4010416666666667,belum_memilah,0,belum_memilah,0.0027059134353081007,ya,tidak
+R19,58,SMA,0.5,belum_memilah,0,belum_memilah,0.004172869698057944,ya,tidak
+R20,42,SMK,0.5677083333333334,sudah_memilah,1,sudah_memilah,0.9924440284995749,ya,tidak
+R21,60,SD,0.703125,sudah_memilah,1,sudah_memilah,0.998038341425041,ya,tidak
+R22,60,SD,0.6614583333333334,sudah_memilah,1,sudah_memilah,0.9995250000000001,ya,tidak
+R23,45,SMP,0.3697916666666667,belum_memilah,0,belum_memilah,0.0029565957001933905,ya,tidak
+R24,40,SMP,0.671875,sudah_memilah,1,sudah_memilah,0.9946377096121948,ya,tidak
+R25,27,SMA,0.765625,sudah_memilah,1,sudah_memilah,1.0,ya,tidak
+R26,49,SMA,0.4791666666666667,belum_memilah,0,belum_memilah,0.0074659813870340186,ya,tidak
+R27,45,S1,0.8697916666666666,sudah_memilah,1,sudah_memilah,1.0,ya,tidak
+R28,60,Tidak Sekolah,0.4583333333333333,belum_memilah,0,belum_memilah,0.007534935341984859,ya,tidak
+R29,50,SMP,0.6927083333333333,sudah_memilah,1,sudah_memilah,0.9814076554367182,ya,tidak
+R30,28,SMK,0.5416666666666667,sudah_memilah,1,sudah_memilah,0.9821939282984367,ya,tidak
+R31,39,SMK,0.4010416666666667,belum_memilah,0,belum_memilah,0.0055434114289613,ya,tidak
+R32,57,S1,0.6614583333333334,sudah_memilah,1,sudah_memilah,0.9997916666666666,ya,tidak
+R33,32,S1,0.6145833333333333,sudah_memilah,1,sudah_memilah,0.9972319688109161,ya,tidak
+R34,62,SMA,0.21875,belum_memilah,0,belum_memilah,0.00014492753623188405,ya,tidak
+R35,32,SMP,0.71875,sudah_memilah,1,sudah_memilah,0.9995238095238096,ya,tidak
+R36,58,SMP,0.203125,belum_memilah,0,belum_memilah,0.0,ya,tidak
+R37,55,SMA,0.5989583333333334,sudah_memilah,1,sudah_memilah,0.998718880458313,ya,tidak
+R38,46,SMA,0.203125,belum_memilah,0,belum_memilah,0.0,ya,tidak
+R39,46,SMA,0.203125,belum_memilah,0,belum_memilah,0.0,ya,tidak
+R40,46,SMA,0.203125,belum_memilah,0,belum_memilah,0.0,ya,tidak
+R41,29,SMK,0.8645833333333333,sudah_memilah,1,sudah_memilah,1.0,ya,tidak
+R42,46,SMA,0.203125,belum_memilah,0,belum_memilah,0.0,ya,tidak
