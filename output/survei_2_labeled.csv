@@ -1,0 +1,43 @@
+id,Umur,Pendidikan Terakhir,P1_organik,P2_cara,P3_dampak,S1_tanggungjawab,S2_penting,S3_sekitar,H1_repot,H2_waktu,H3_fasilitas,H4_dukungan,RW1_tertarik,RW2_pengaruh,RW3_menarik,RW4_sebanding,PK1_niat,PK2_sering,PK3_kegiatan,PK4_rutin,label,label_num,tingkat
+R01,56,SMA,5,3,5,5,5,1,0,1,0,0,5,4,4,4,4,3,2,4,belum_memilah,0,paham_belum_memilah
+R02,51,SMA,5,5,5,4,4,1,0,0,0,1,3,3,5,4,5,3,5,5,belum_memilah,0,paham_belum_memilah
+R03,32,SMA,5,4,5,5,5,2,0,0,1,0,5,5,5,5,5,3,5,5,belum_memilah,0,paham_belum_memilah
+R04,63,SD,4,2,4,5,4,1,0,0,0,0,2,2,4,4,2,4,2,3,belum_memilah,0,belum_paham
+R05,56,SMP,4,4,3,5,4,1,0,0,0,0,5,5,5,5,4,3,2,5,belum_memilah,0,belum_paham
+R06,33,SMA,4,5,4,5,5,5,0,0,0,0,5,2,4,5,4,3,3,4,belum_memilah,0,paham_belum_memilah
+R07,56,SMA,5,4,4,5,5,2,0,0,0,0,5,5,5,5,5,4,3,5,sudah_memilah,1,sudah_memilah
+R08,35,SMA,5,5,5,5,5,4,0,0,0,0,5,5,5,5,5,5,4,5,sudah_memilah,1,sudah_memilah
+R09,52,SD,5,4,4,5,4,4,0,0,1,0,5,5,5,5,3,3,2,3,belum_memilah,0,paham_belum_memilah
+R10,36,SMA,3,4,5,5,5,1,1,0,1,1,5,3,5,5,5,4,1,5,sudah_memilah,1,sudah_memilah
+R11,58,SD,4,2,1,5,5,1,0,0,0,0,4,4,3,4,3,3,4,4,belum_memilah,0,belum_paham
+R12,56,SMA,5,2,4,3,2,1,1,0,0,0,5,1,5,5,5,5,1,5,sudah_memilah,1,sudah_memilah
+R13,30,S1,5,5,4,4,5,5,0,0,0,1,5,4,5,5,2,4,4,2,belum_memilah,0,paham_belum_memilah
+R14,60,SMA,3,3,4,5,5,2,0,0,0,0,5,5,5,5,3,4,1,3,belum_memilah,0,belum_paham
+R15,45,SMA,3,3,3,4,4,2,0,0,0,0,5,1,5,5,5,4,1,5,sudah_memilah,1,sudah_memilah
+R16,38,SMA,5,4,5,3,4,1,0,0,0,1,5,5,5,5,4,5,5,4,sudah_memilah,1,sudah_memilah
+R17,29,SMK,4,4,5,4,4,1,0,0,0,1,4,4,5,5,3,5,5,3,belum_memilah,0,paham_belum_memilah
+R18,37,-,5,4,4,3,3,1,1,1,0,0,5,5,4,4,4,3,5,5,belum_memilah,0,paham_belum_memilah
+R19,58,SMA,5,5,4,4,5,5,0,0,0,1,5,4,4,5,4,4,4,4,sudah_memilah,1,sudah_memilah
+R20,42,SMK,5,4,4,3,4,2,0,0,0,1,5,5,5,5,4,3,1,4,belum_memilah,0,paham_belum_memilah
+R21,60,SD,3,3,4,4,5,2,0,0,0,1,4,4,5,5,4,5,4,3,belum_memilah,0,belum_paham
+R22,60,SD,4,4,4,4,4,2,0,0,0,1,5,1,5,5,4,2,4,5,belum_memilah,0,paham_belum_memilah
+R23,45,SMP,5,5,4,4,5,5,0,0,0,1,5,5,5,5,4,3,4,4,belum_memilah,0,paham_belum_memilah
+R24,40,smp,4,2,3,3,5,4,0,0,0,1,5,1,5,5,5,5,3,5,sudah_memilah,1,sudah_memilah
+R25,27,Sma,5,4,5,4,5,4,0,0,0,1,5,1,5,5,5,4,3,5,sudah_memilah,1,sudah_memilah
+R26,49,SMA,5,5,4,4,5,5,0,0,0,1,5,5,5,5,5,3,4,5,belum_memilah,0,paham_belum_memilah
+R27,45,s1 ,5,5,5,4,4,3,0,0,1,1,4,4,5,5,4,5,4,4,sudah_memilah,1,sudah_memilah
+R28,60,tidak sekolah,5,4,3,4,3,3,0,0,0,0,5,4,4,4,3,4,1,4,sudah_memilah,1,sudah_memilah
+R29,50,smp,3,3,5,5,5,4,0,0,0,1,5,4,4,4,5,4,2,5,sudah_memilah,1,sudah_memilah
+R30,28,smk,4,4,5,5,3,2,0,0,0,0,5,4,4,4,5,4,1,5,sudah_memilah,1,sudah_memilah
+R31,39,smk,3,3,4,4,4,2,1,0,0,1,5,4,4,4,4,5,1,3,belum_memilah,0,belum_paham
+R32,57,s1,5,5,5,4,4,2,0,0,0,1,3,4,4,4,4,4,3,5,sudah_memilah,1,sudah_memilah
+R33,32,s1,5,5,4,3,4,1,0,0,0,1,3,4,4,4,4,5,3,4,sudah_memilah,1,sudah_memilah
+R34,62,SMA,5,5,4,4,5,5,0,0,0,1,3,4,4,4,5,5,4,5,sudah_memilah,1,sudah_memilah
+R35,32,SMP,5,4,5,4,4,2,0,0,1,0,5,4,4,4,4,5,4,5,sudah_memilah,1,sudah_memilah
+R36,58,SMP,3,3,3,2,2,2,1,1,0,0,5,4,4,4,2,4,1,3,belum_memilah,0,belum_paham
+R37,55,SMA,5,4,4,3,3,3,0,0,0,1,3,4,4,4,5,2,1,5,belum_memilah,0,paham_belum_memilah
+R38,46,SMA,5,5,4,4,5,5,0,0,0,1,5,4,4,4,5,4,4,4,sudah_memilah,1,sudah_memilah
+R39,46,SMA,3,3,3,2,2,2,0,0,0,0,5,3,5,5,2,4,3,5,sudah_memilah,1,sudah_memilah
+R40,46,SMA,3,3,3,2,2,2,0,0,0,0,4,4,3,4,2,5,3,2,belum_memilah,0,belum_paham
+R41,29,SMK,5,5,4,4,5,5,0,0,0,1,5,1,5,5,5,3,4,3,belum_memilah,0,paham_belum_memilah
+R42,46,SMA,5,5,4,4,5,5,0,0,0,1,5,4,3,4,5,4,4,5,sudah_memilah,1,sudah_memilah

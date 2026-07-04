@@ -1,0 +1,32 @@
+id,nama_norm,label,label_num,total_kg,hari_aktif,status,memilah_lapangan
+R01,endang,belum_memilah,0,40.150000000000006,6,sudah_belum_konsisten,1
+R02,nurul farita,belum_memilah,0,0.0,0,tidak_memilah,0
+R03,nur hayati,belum_memilah,0,23.9,6,sudah_belum_konsisten,1
+R04,ngatiyem,belum_memilah,0,10.95,4,sudah_belum_konsisten,1
+R05,srinem,belum_memilah,0,5.9,3,sudah_belum_konsisten,1
+R06,santi,belum_memilah,0,1.95,1,sudah_belum_konsisten,1
+R08,endah,sudah_memilah,1,12.8,5,sudah_belum_konsisten,1
+R09,slamet,belum_memilah,0,7.05,4,sudah_belum_konsisten,1
+R10,rani,sudah_memilah,1,3.2,1,sudah_belum_konsisten,1
+R11,sri maryati,belum_memilah,0,10.830000000000002,4,sudah_belum_konsisten,1
+R12,sriyatun,sudah_memilah,1,7.5,4,sudah_belum_konsisten,1
+R13,hanik,belum_memilah,0,0.0,0,tidak_memilah,0
+R14,siti,belum_memilah,0,33.0,6,sudah_belum_konsisten,1
+R15,surati,sudah_memilah,1,17.85,6,sudah_belum_konsisten,1
+R16,desi,sudah_memilah,1,8.92,5,sudah_belum_konsisten,1
+R18,giyarti,belum_memilah,0,4.35,5,sudah_belum_konsisten,1
+R19,tri wahyuni,sudah_memilah,1,8.9,6,sudah_belum_konsisten,1
+R20,titik,belum_memilah,0,0.35,1,sudah_belum_konsisten,1
+R21,sumarti,belum_memilah,0,17.6,6,sudah_belum_konsisten,1
+R22,sutiyem,belum_memilah,0,21.0,6,sudah_belum_konsisten,1
+R23,haryanti,belum_memilah,0,6.8,3,sudah_belum_konsisten,1
+R24,retno,sudah_memilah,1,2.4,3,sudah_belum_konsisten,1
+R28,marni,sudah_memilah,1,14.05,4,sudah_belum_konsisten,1
+R29,kamsih,sudah_memilah,1,8.3,2,sudah_belum_konsisten,1
+R34,harni,sudah_memilah,1,1.4,1,sudah_belum_konsisten,1
+R35,titik,sudah_memilah,1,0.35,1,sudah_belum_konsisten,1
+R36,sriyatun,belum_memilah,0,7.5,4,sudah_belum_konsisten,1
+R37,endah,belum_memilah,0,12.8,5,sudah_belum_konsisten,1
+R38,suryani,sudah_memilah,1,10.98,6,sudah_belum_konsisten,1
+R40,dwi astuti,belum_memilah,0,7.77,5,sudah_belum_konsisten,1
+R41,nisa,belum_memilah,0,6.15,3,sudah_belum_konsisten,1

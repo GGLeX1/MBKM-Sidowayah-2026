@@ -734,19 +734,6 @@ program-pemilahan-sampah/
 │   ├── 10_inference_survei2.py
 │   └── 11_integrasi_kesimpulan.py
 │
-├── notebooks/
-│   ├── 01_eda_survei1.ipynb
-│   ├── 02_label_engineering.ipynb
-│   ├── 03_synthetic_data_generation.ipynb
-│   ├── 04_model_training_survei1.ipynb
-│   ├── 05_inference_survei1.ipynb
-│   ├── 06_eda_keberlangsungan.ipynb
-│   ├── 07_eda_survei2.ipynb
-│   ├── 08_prepost_analysis.ipynb
-│   ├── 09_model_training_survei2.ipynb
-│   ├── 10_inference_survei2.ipynb
-│   └── 11_integrasi_kesimpulan.ipynb
-│
 ├── models/
 │   ├── model_survei1_best.pkl
 │   └── model_survei2_best.pkl
