@@ -6,7 +6,7 @@ folder = Path(__file__).parent
 keluaran = folder / "output"
 keluaran.mkdir(exist_ok=True)
  
-df = c.muat_survei(folder / "data" / "survei_1_raw.csv")
+df = c.muat_survei(folder / "data" / "survei_1_raw_(2).csv")
 likert = c.pengetahuan + c.sikap + ["PK1_niat", "PK2_sering", "PK3_kegiatan", "PK4_rutin"]
  
 print("EDA Survei 1")
