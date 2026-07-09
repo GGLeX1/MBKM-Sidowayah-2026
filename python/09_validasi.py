@@ -6,7 +6,7 @@ from sklearn.metrics import cohen_kappa_score
 import matplotlib.pyplot as plt
 import common as c
  
-folder = Path(__file__).parent
+folder = Path(__file__).parent.parent
 keluaran = folder / "output"
  
  

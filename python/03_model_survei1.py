@@ -6,7 +6,7 @@ from sklearn.model_selection import LeaveOneOut, cross_val_predict
 from sklearn.metrics import accuracy_score, f1_score, confusion_matrix
 import common as c
  
-folder = Path(__file__).parent
+folder = Path(__file__).parent.parent
 keluaran = folder / "output"
  
 df = pd.read_csv(keluaran / "survei_1_labeled.csv")

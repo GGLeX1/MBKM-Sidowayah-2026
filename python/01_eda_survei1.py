@@ -2,11 +2,11 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 import common as c
  
-folder = Path(__file__).parent
+folder = Path(__file__).parent.parent
 keluaran = folder / "output"
 keluaran.mkdir(exist_ok=True)
  
-df = c.muat_survei(folder / "data" / "survei_1_raw_(2).csv")
+df = c.muat_survei(folder / "data" / "survei_1_raw.csv")
 likert = c.pengetahuan + c.sikap + ["PK1_niat", "PK2_sering", "PK3_kegiatan", "PK4_rutin"]
  
 print("EDA Survei 1")

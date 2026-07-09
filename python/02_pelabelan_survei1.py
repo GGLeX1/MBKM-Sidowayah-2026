@@ -2,7 +2,7 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 import common as c
  
-folder = Path(__file__).parent
+folder = Path(__file__).parent.parent
 keluaran = folder / "output"
  
 df = c.muat_survei(folder / "data" / "survei_1_raw.csv")

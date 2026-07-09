@@ -12,7 +12,7 @@ R10,36,SMA,3,4,5,5,5,1,1,1,1,1,3,1,1,1,belum_memilah,0,paham_belum_memilah
 R11,58,SD,4,2,1,5,5,1,0,0,0,0,4,2,4,2,belum_memilah,0,belum_paham
 R12,56,SMA,5,2,4,3,2,1,1,1,0,0,3,1,1,1,belum_memilah,0,belum_paham
 R13,30,S1,2,1,1,4,5,4,0,0,0,0,4,1,3,2,belum_memilah,0,belum_paham
-R14,60,SMA,3,3,4,5,5,2,0,1,0,0,5,1,1,1,belum_memilah,0,belum_paham
+R14,60,-,3,3,4,5,5,2,0,1,0,0,5,1,1,1,belum_memilah,0,belum_paham
 R15,45,SMA,3,3,3,4,4,2,0,0,0,0,5,1,1,1,belum_memilah,0,belum_paham
 R16,38,SMA,5,4,5,3,4,1,0,0,0,1,5,1,5,1,belum_memilah,0,paham_belum_memilah
 R17,29,SMK,4,4,5,4,4,1,0,0,0,1,5,2,5,1,belum_memilah,0,paham_belum_memilah
@@ -32,12 +32,12 @@ R30,28,smk,4,4,5,5,3,2,0,0,0,0,5,1,1,1,belum_memilah,0,paham_belum_memilah
 R31,39,smk,3,3,4,4,4,2,1,1,0,1,4,1,1,1,belum_memilah,0,belum_paham
 R32,57,s1,5,5,5,4,4,2,0,0,0,1,4,1,3,1,belum_memilah,0,paham_belum_memilah
 R33,32,s1,5,5,4,3,4,1,0,0,0,1,4,1,3,2,belum_memilah,0,paham_belum_memilah
-R34,62,SMA,2,3,2,4,2,2,1,1,0,0,2,1,2,1,belum_memilah,0,belum_paham
+R34,62,-,2,3,2,4,2,2,1,1,0,0,2,1,2,1,belum_memilah,0,belum_paham
 R35,32,SMP,5,4,5,4,4,2,0,0,1,0,4,3,4,3,belum_memilah,0,paham_belum_memilah
 R36,58,SMP,3,3,3,2,2,2,1,1,0,0,2,1,1,1,belum_memilah,0,belum_paham
-R37,55,SMA,5,4,4,3,3,3,0,0,0,1,5,2,1,1,belum_memilah,0,paham_belum_memilah
-R38,46,SMA,3,3,3,2,2,2,1,1,0,0,2,1,1,1,belum_memilah,0,belum_paham
-R39,46,SMA,3,3,3,2,2,2,1,1,0,0,2,1,1,1,belum_memilah,0,belum_paham
-R40,46,SMA,3,3,3,2,2,2,1,1,0,0,2,1,1,1,belum_memilah,0,belum_paham
+R37,55,-,5,4,4,3,3,3,0,0,0,1,5,2,1,1,belum_memilah,0,paham_belum_memilah
+R38,-,-,3,3,3,2,2,2,1,1,0,0,2,1,1,1,belum_memilah,0,belum_paham
+R39,-,-,3,3,3,2,2,2,1,1,0,0,2,1,1,1,belum_memilah,0,belum_paham
+R40,-,-,3,3,3,2,2,2,1,1,0,0,2,1,1,1,belum_memilah,0,belum_paham
 R41,29,SMK,5,5,4,4,5,5,0,0,0,1,5,4,4,5,sudah_memilah,1,sudah_memilah
-R42,46,SMA,3,3,3,2,2,2,1,1,0,0,2,1,1,1,belum_memilah,0,belum_paham
+R42,-,-,3,3,3,2,2,2,1,1,0,0,2,1,1,1,belum_memilah,0,belum_paham

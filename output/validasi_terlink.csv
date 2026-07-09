@@ -1,0 +1,43 @@
+id,nama_norm,label,label_num,total_kg,hari_aktif,status,memilah_lapangan
+R01,desi,sudah_memilah,1,8.92,5,sudah_belum_konsisten,1
+R02,dwi astuti,sudah_memilah,1,7.77,5,sudah_belum_konsisten,1
+R03,endah,sudah_memilah,1,12.8,5,sudah_belum_konsisten,1
+R04,endang,belum_memilah,0,40.150000000000006,6,sudah_belum_konsisten,1
+R05,giyarti,sudah_memilah,1,4.35,5,sudah_belum_konsisten,1
+R06,harni,sudah_memilah,1,1.4,1,sudah_belum_konsisten,1
+R07,haryanti,sudah_memilah,1,6.8,3,sudah_belum_konsisten,1
+R08,isti,sudah_memilah,1,2.56,1,sudah_belum_konsisten,1
+R09,ita,belum_memilah,0,6.75,5,sudah_belum_konsisten,1
+R10,ita,sudah_memilah,1,6.75,5,sudah_belum_konsisten,1
+R11,kamsih,sudah_memilah,1,8.3,2,sudah_belum_konsisten,1
+R12,kana,sudah_memilah,1,8.55,4,sudah_belum_konsisten,1
+R13,leli,belum_memilah,0,5.16,5,sudah_belum_konsisten,1
+R14,marni,belum_memilah,0,14.05,4,sudah_belum_konsisten,1
+R15,ngatiyem,sudah_memilah,1,10.95,4,sudah_belum_konsisten,1
+R16,nisa,sudah_memilah,1,6.15,3,sudah_belum_konsisten,1
+R17,nur fajar,belum_memilah,0,6.15,4,sudah_belum_konsisten,1
+R18,nur hayati,belum_memilah,0,23.9,6,sudah_belum_konsisten,1
+R19,nurul farita,belum_memilah,0,0.0,0,tidak_memilah,0
+R20,ponirah,belum_memilah,0,18.35,5,sudah_belum_konsisten,1
+R21,rani,belum_memilah,0,3.2,1,sudah_belum_konsisten,1
+R22,retno,belum_memilah,0,2.4,3,sudah_belum_konsisten,1
+R23,rizky putri,belum_memilah,0,2.7,2,sudah_belum_konsisten,1
+R24,santi,sudah_memilah,1,1.95,1,sudah_belum_konsisten,1
+R25,siti,sudah_memilah,1,33.0,6,sudah_belum_konsisten,1
+R26,siti rohani,belum_memilah,0,4.1,3,sudah_belum_konsisten,1
+R27,slamet,sudah_memilah,1,7.05,4,sudah_belum_konsisten,1
+R28,sri maryati,sudah_memilah,1,10.830000000000002,4,sudah_belum_konsisten,1
+R29,sri rahayu,sudah_memilah,1,4.75,1,sudah_belum_konsisten,1
+R30,sri subekti,sudah_memilah,1,14.05,7,konsisten,1
+R31,srinem,belum_memilah,0,5.9,3,sudah_belum_konsisten,1
+R32,sriyatun,sudah_memilah,1,7.5,4,sudah_belum_konsisten,1
+R33,sumarti,sudah_memilah,1,17.6,6,sudah_belum_konsisten,1
+R34,surati,sudah_memilah,1,17.85,6,sudah_belum_konsisten,1
+R35,suryani,sudah_memilah,1,10.98,6,sudah_belum_konsisten,1
+R36,sutiyem,belum_memilah,0,21.0,6,sudah_belum_konsisten,1
+R37,titik,belum_memilah,0,0.35,1,sudah_belum_konsisten,1
+R38,titin,sudah_memilah,1,9.7,4,sudah_belum_konsisten,1
+R39,tri rahayu,sudah_memilah,1,11.65,4,sudah_belum_konsisten,1
+R40,tri wahyuni,belum_memilah,0,8.9,6,sudah_belum_konsisten,1
+R41,tukini,belum_memilah,0,11.25,4,sudah_belum_konsisten,1
+R42,hanik,sudah_memilah,1,0.0,0,tidak_memilah,0

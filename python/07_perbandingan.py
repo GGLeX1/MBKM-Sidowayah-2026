@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import common as c
  
-folder = Path(__file__).parent
+folder = Path(__file__).parent.parent
 keluaran = folder / "output"
  
 s1 = pd.read_csv(keluaran / "survei_1_labeled.csv")
